@@ -1,0 +1,140 @@
+CHAPTER 1 PRELIMINARY
+Title
+1. This Act is the Goods and Services Tax Act of Bhutan 2020.
+Commencement
+2. This Act comes into force on the 21st day of the 11th month of the Earth Female Pig Year corresponding to the 16th day of the 1 st month of 2020.
+3. Notwithstanding section 2 of this Act, the provisions under:
+(1) Chapter 7, Accounting for GST;
+(2) Chapter 8, Payment of GST;
+(3) Chapter 9, Refund of net amount; and
+(4) Chapter 10, Registration
+comes into force on the 1st day of the 7th month of 2021.
+Extent
+4. This Act extends to the whole of Bhutan.
+Repeal
+5. This Act repeals the following provisions on the 1st day of the 7th month of 2021:
+(1) Part I, Part III, general provisions and Annexure IV of the Sales Tax, Customs and Excise Act of the Kingdom of Bhutan 2000;
+2 Goods and Services Tax Act of Bhutan 2020 :unselected:
+(2) Schedule A (sales tax rate-proposed ST), and Schedule B (excise duty rate- proposed Excise Duty Rate) of the Tax Revision Act 2011;
+(3) Sections 1-11 and sections 32-56 of the Sales Tax, Customs and Excise (Amendment) Act of Bhutan 2012;
+(4) Chapter 5.2.2, Annexure I (sales tax rate) and Annexure II (sales tax rate) of the Tax Act 2014;
+(5) Annexure III (sales tax rate) of the Revised Taxes and Levies Act of Bhutan 2016;
+(6) Sales Tax rates of Bhutan Trade Classification and Tariff Schedule 2017; and
+(7) Annexure I (sales tax rate) of the Tax (Amendment) Act of Bhutan 2020.
+Supersession
+6. This Act supersedes all laws, rules and regulations, notifications and circulars that are inconsistent with the provisions of this Act, except the Constitution of the Kingdom of Bhutan, or as otherwise specified herein.
+CHAPTER 2 AUTHORITY, STRUCTURE, FUNCTIONS AND POWERS
+Authority
+7. The Department of Revenue and Customs under the Ministry shall be the authority for the implementation and administration of this Act.
+Goods and Services Tax Act of Bhutan 2020
+༣ :selected:
+Organizational structure
+8. The Ministry is the responsible body for all matters concerning Goods and Services Tax (GST) and Excise Equalization Tax (EET).
+9. The Department headed by a Director shall be the immediate authority for the overall management and administration of GST and EET.
+Functions of the Department
+10. It shall be the responsibility of the Department to carry out the following functions, but not limited to:
+(1) administer and implement this Act and rules and regulations thereof;
+(2) assist the Ministry, Regional Offices and other agencies in matters relating to the smooth administration of GST and EET;
+(3) analyse information and devise risk management systems;
+(4) implement planning and monitoring;
+(5) streamline procedures for effective administration;
+(6) carry out assessment and collection, and enforcement of GST and EET; and
+(7) review the application of objections and appeals.
+Powers
+11. For the efficient implementation of this Act:
+(1) the Ministry is empowered with the following powers;
+4 Goods and Services Tax Act of Bhutan 2020 :unselected: :unselected: :selected: :selected:
+c
+(a) authorize rules and regulations; and
+(b) develop and review procedures, standards, criteria, and forms to make GST and EET dynamic and simple.
+(2) the Department is empowered to exercise the powers set out in this Act and the rules and regulations prescribed under this Act.
+CHAPTER 3 LIABILITY FOR GST
+Applicability of GST
+12. GST shall be applicable on taxable supplies and taxable imports.
+13. Except for those items listed under Schedule III, all amounts paid to a government entity shall be treated as consideration for a supply made by the government entity.
+Person liable to pay GST
+14. The person liable for GST is:
+(1) subject to sections 14(3) and (4), the supplier in case of a taxable supply made within Bhutan;
+(2) the importer in case of a taxable import;
+(3) the purchaser in case of a taxable supply of imported Business to Business (B2B) services; or
+Goods and Services Tax Act of Bhutan 2020
+(4) in the case of a taxable supply of imported Business to Consumer (B2C) services:
+(a) the operator of the electronic distribution platform, if the supply is made through a single electronic distribution platform;
+(b) the operator as determined and prescribed in the rules and regulations under this Act, if the supply is made through more than one electronic distribution platform; or
+(c) the supplier, if the supply is not made through an electronic distribution platform.
+15. The person is liable for the GST under section 14 of this Act regardless of whether the Department makes an assessment.
+GST rate
+16. The person liable for GST under section 14 of this Act shall pay GST at a rate prescribed under Schedule I and Schedule V of this Act.
+CHAPTER 4 VALUATION AND APPLICATION OF GST
+Value of taxable supplies
+17. The value of a taxable supply made in Bhutan and a taxable supply of imported B2C services shall be the consideration of supply reduced by the amount equal to the tax fraction of that consideration.
+Goods and Services Tax Act of Bhutan 2020
+18. The value of a taxable supply of imported B2B services shall be the consideration for the supply.
+Value of non-taxable supplies
+19. The value of a non-taxable supply shall be the consideration for the supply excluding GST.
+Value of supplies for no consideration
+20. The value of a supply for no consideration shall be nil.
+Value of certain supplies by approved not-for-profit organizations in response to unconditional gifts
+21. Where an approved not-for-profit organization (the donee), gives recognition or acknowledgement in response to an unconditional gift of goods, services, immovable property, or money by another person (the donor), the value of the supplies by the donor and the donee shall be nil.
+Value of supplies to related persons
+22. Notwithstanding sections 17 to 20 of this Act where a person makes a supply to a customer who is a related person:
+(1) if the supply is:
+(a) a taxable supply that is made in Bhutan;
+Goods and Services Tax Act of Bhutan 2020
+(b) a supply of imported B2C services; and in either case:
+(c) the customer would not be entitled to a full input tax credit for the acquisition of the supply; or
+(d) made for no consideration, or for a consideration that is lower than the fair market value,
+the value of the supply shall be the fair market value of the supply reduced by the tax fraction of the fair market value;
+(2) if the supply is a taxable supply of imported B2B services, the value of the supply shall be the fair market value of the supply if:
+(a) the customer would not be entitled to a full input tax credit for the acquisition of the service supplied; or
+(b) the supply is made for no consideration, or for a consideration that is lower than the fair market value;
+(3) if the supply is not a taxable supply, the value of the supply shall be the fair market value of the supply.
+Goods and Services Tax Act of Bhutan 2020
+Value for imports and re-imported goods
+Value of import
+23. The value of an import of goods shall be:
+(1) the value of the goods for the purposes of customs duty under the Customs Act of Bhutan 2017, whether or not duty is payable on the import;
+(2) the amount of any customs duty payable on the import; and
+(3) to the extent not included under section 23(1):
+(a) the cost of insurance and freight incurred in bringing the goods to Bhutan; and
+(b) the amounts of any tax or fee, other than customs duty and GST, payable on the import of the goods.
+Value of re-imported goods
+24. The value of re-imported goods shall be:
+(1) such amount attributable to the repair, maintenance, cleaning, renovation, modification, treatment and other physical processes which increased the value of the re- imported goods;
+(2) the amount of any customs duty payable on the re-import of the goods; and
+(3) to the extent not included under section 24(1), the amounts of any tax or fee other than customs duty and GST payable on the import of the goods.
+Goods and Services Tax Act of Bhutan 2020
+Computation of GST
+25. The amount of GST payable shall be computed by applying the GST rate prescribed under Schedule I of this Act to the value of the supply or import.
+CHAPTER 5 EXEMPTION AND ZERO-RATING
+Exempt supplies and imports
+26. GST shall not be applicable on an exempt supply or exempt import as prescribed under Schedule IV of this Act.
+27. The supplier or importer shall not be entitled to input tax credits to the extent that an acquisition or import is for the purpose of making an exempt supply or exempt import.
+Zero-rated supplies and imports
+28. GST shall be applicable at the rate of zero percent on a zero-rated supply or a zero-rated import as prescribed under Schedule V of this Act.
+29. The supplier or importer shall be entitled to input tax credits to the extent that an acquisition or import is for the purpose of making a zero-rated supply or a zero-rated import.
+Goods and Services Tax Act of Bhutan 2020
+Variation of exempt or zero-rated supplies and imports
+30. The categories of exempt and zero-rated supplies and imports may be varied, through amendment of Schedule IV and Schedule V by the Parliament.
+Zero-rated and exempt supplies
+31. A supply shall be treated as zero-rated if the supply would be both exempt and zero-rated.
+CHAPTER 6 INPUT TAX CREDITS
+General conditions for input tax credits
+32. Unless provided in this Act, a taxable person shall be allowed a credit for an amount of input tax incurred subject to the condition that:
+(1) the goods, services, or immovable property on which the input tax was incurred were acquired or imported by the person:
+(a) in the course of the person's economic activity; and
+(b) for the purpose of making taxable supplies; and
+(2) the person paid, or is liable to pay:
+(a) the consideration for the taxable supply; or
+(b) the GST imposed on the import.
+Goods and Services Tax Act of Bhutan 2020
+Input tax on imported B2B services
+33. The GST on a taxable supply of imported B2B services shall be payable by the customer who shall be treated as incurring both output tax and input tax, but subject to this Act, the customer shall be allowed an input tax credit for that supply provided the customer has accounted for the output tax.
+Specific restrictions on input tax credits
+34. Subject to section 35 of this Act, a taxable person shall not be allowed an input tax credit for:
+(1) an acquisition of goods, services, or immovable property, to the extent that it is used to provide entertainment, unless the person's economic activity involves providing entertainment and the entertainment is provided in the ordinary course of that economic activity;
+(2) an acquisition of a membership or right of entry for any person in or to a club, association, or society of a sporting, social, or recreational nature;
+(3) an acquisition of a lottery supply;
+(4) an acquisition or import of a passenger vehicle; or
+(5) an acquisition or importation of goods or services used directly in connection with a passenger vehicle.
+Goods and Services Tax Act of Bhutan 2020

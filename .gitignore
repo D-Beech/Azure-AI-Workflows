@@ -45,3 +45,6 @@ venv.bak/
 # OS
 .DS_Store
 Thumbs.db
+
+output/*
+input_document/*

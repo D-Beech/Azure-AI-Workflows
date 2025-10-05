@@ -1,9 +1,22 @@
 """
-This code sample shows Prebuilt Layout operations with the Azure AI Document Intelligence client library.
-The async versions of the samples require Python 3.8 or later.
+Azure Document Intelligence - Bhutan Training Document Analysis
 
-To learn more, please visit the documentation - Quickstart: Document Intelligence (formerly Form Recognizer) SDKs
-https://learn.microsoft.com/azure/ai-services/document-intelligence/quickstarts/get-started-sdks-rest-api?pivots=programming-language-python
+This script uses Azure Document Intelligence to analyze PDF documents and extract:
+- Text content (lines, paragraphs)
+- Document structure (tables, selection marks)
+- Handwriting detection
+- Complete JSON response
+
+The script loads credentials from environment variables and saves results to:
+- analysis_results.txt (human-readable format)
+- analysis_response.json (complete JSON response)
+
+Requirements:
+- Azure Document Intelligence endpoint and key in .env file
+- Python 3.8 or later
+- Required packages in requirements.txt
+
+Usage: python3 doc_intellegence.py
 """
 
 import os

@@ -1,3 +1,23 @@
+"""
+Azure Blob Storage Upload Script
+
+This script uploads all PDF files from the input_document folder to Azure Blob Storage.
+It uses environment variables for secure credential management.
+
+Features:
+- Uploads all PDF files from ./input_document folder
+- Uses Azure Blob Storage with SAS token authentication
+- Environment variable configuration for security
+- Overwrites existing files with same name
+
+Requirements:
+- AZURE_CONTAINER_URL environment variable in .env file
+- PDF files in ./input_document folder
+- Required packages in requirements.txt
+
+Usage: python3 upload_to_blob.py
+"""
+
 import os
 from azure.storage.blob import BlobClient
 from dotenv import load_dotenv
@@ -5,6 +25,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
+# Configuration
 input_folder = "./input_document"
 
 # Get container URL from environment variables

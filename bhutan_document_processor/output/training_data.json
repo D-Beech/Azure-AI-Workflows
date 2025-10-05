@@ -1,0 +1,107 @@
+[
+  {
+    "question": "What is the title of the Act discussed in the document?",
+    "answer": "The Act is titled the Goods and Services Tax Act of Bhutan 2020.",
+    "chunk_id": 1
+  },
+  {
+    "question": "When does the Goods and Services Tax Act of Bhutan 2020 come into force?",
+    "answer": "The Act comes into force on the 21st day of the 11th month of the Earth Female Pig Year, corresponding to the 16th day of the 1st month of 2020.",
+    "chunk_id": 1
+  },
+  {
+    "question": "Which department is responsible for the implementation and administration of the Goods and Services Tax Act?",
+    "answer": "The Department of Revenue and Customs under the Ministry is responsible for the implementation and administration of this Act.",
+    "chunk_id": 1
+  },
+  {
+    "question": "What is the primary responsibility of the Ministry in relation to the Goods and Services Tax (GST) and Excise Equalization Tax (EET)?",
+    "answer": "The Ministry is the responsible body for all matters concerning Goods and Services Tax (GST) and Excise Equalization Tax (EET).",
+    "chunk_id": 2
+  },
+  {
+    "question": "What are some of the key functions of the Department responsible for GST and EET?",
+    "answer": "The Department is responsible for administering and implementing the Act, assisting the Ministry and other agencies, analyzing information, implementing planning and monitoring, streamlining procedures, assessing and collecting GST and EET, and reviewing applications of objections and appeals.",
+    "chunk_id": 2
+  },
+  {
+    "question": "Who is liable to pay GST in Bhutan for taxable supplies and imports?",
+    "answer": "The person liable for GST is the supplier in case of a taxable supply made within Bhutan and the importer in case of taxable imports.",
+    "chunk_id": 2
+  },
+  {
+    "question": "Who is liable to pay GST for a taxable supply made within Bhutan?",
+    "answer": "The supplier is liable for GST in the case of a taxable supply made within Bhutan.",
+    "chunk_id": 3
+  },
+  {
+    "question": "What is the GST rate based on?",
+    "answer": "The person liable for GST shall pay GST at a rate prescribed under Schedule I and Schedule V of this Act.",
+    "chunk_id": 3
+  },
+  {
+    "question": "How is the value of a taxable supply of imported B2B services determined?",
+    "answer": "The value of a taxable supply of imported B2B services is determined as the consideration for the supply.",
+    "chunk_id": 3
+  },
+  {
+    "question": "What happens to the value of supplies made by a not-for-profit organization when they acknowledge an unconditional gift?",
+    "answer": "The value of the supplies by the donor and the donee shall be nil.",
+    "chunk_id": 4
+  },
+  {
+    "question": "Under what conditions is the value of a taxable supply to a related person determined?",
+    "answer": "The value of a taxable supply to a related person is determined by the fair market value reduced by the tax fraction if the customer is not entitled to a full input tax credit or if the supply is made for no consideration or for a consideration lower than the fair market value.",
+    "chunk_id": 4
+  },
+  {
+    "question": "How is the value of imports determined under the Goods and Services Tax Act of Bhutan?",
+    "answer": "The value of an import of goods is the value for customs duty purposes, the amount of customs duty payable, and includes the cost of insurance and freight as well as any other applicable tax or fee.",
+    "chunk_id": 4
+  },
+  {
+    "question": "What costs are included in the value of goods being imported into Bhutan according to section 23?",
+    "answer": "The costs included are the cost of insurance and freight incurred in bringing the goods to Bhutan, as well as any tax or fee, other than customs duty and GST, payable on the import of the goods.",
+    "chunk_id": 5
+  },
+  {
+    "question": "How is the value of re-imported goods determined under section 24?",
+    "answer": "The value of re-imported goods is determined by considering the amount attributable to physical processes that increased their value, the amount of any customs duty payable on re-import, and any other tax or fee, other than customs duty and GST, payable on the import of the goods.",
+    "chunk_id": 5
+  },
+  {
+    "question": "What is the effect of making an exempt supply or exempt import under the Goods and Services Tax Act of Bhutan?",
+    "answer": "GST shall not be applicable on an exempt supply or exempt import, and the supplier or importer is not entitled to input tax credits if the acquisition or import is for the purpose of making an exempt supply or exempt import.",
+    "chunk_id": 5
+  },
+  {
+    "question": "What conditions must be met for a supply to be treated as zero-rated?",
+    "answer": "A supply shall be treated as zero-rated if the supply would be both exempt and zero-rated.",
+    "chunk_id": 6
+  },
+  {
+    "question": "Who is responsible for paying GST on a taxable supply of imported B2B services?",
+    "answer": "The customer is responsible for paying GST on a taxable supply of imported B2B services and shall be treated as incurring both output tax and input tax.",
+    "chunk_id": 6
+  },
+  {
+    "question": "What are some specific restrictions on input tax credits for taxable persons?",
+    "answer": "A taxable person shall not be allowed an input tax credit for: (1) acquisition of goods or services providing entertainment unless in the ordinary course of that economic activity; (2) membership in social or recreational clubs; (3) lottery supplies; (4) passenger vehicles; or (5) goods/services used in connection with passenger vehicles.",
+    "chunk_id": 6
+  },
+  {
+    "question": "What is the primary focus of the Goods and Services Tax Act of Bhutan 2020 regarding passenger vehicles?",
+    "answer": "The act addresses the acquisition or import of a passenger vehicle and the goods or services used directly in connection with it.",
+    "chunk_id": 7
+  },
+  {
+    "question": "What types of transactions are covered under the Goods and Services Tax Act of Bhutan 2020?",
+    "answer": "The transactions covered include (1) acquisition or import of a passenger vehicle; (2) acquisition or importation of goods or services related to a passenger vehicle.",
+    "chunk_id": 7
+  },
+  {
+    "question": "What categories of goods or services are specifically mentioned in the Goods and Services Tax Act of Bhutan 2020?",
+    "answer": "The act specifically mentions goods or services used directly in connection with a passenger vehicle.",
+    "chunk_id": 7
+  }
+]

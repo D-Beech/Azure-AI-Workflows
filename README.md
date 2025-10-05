@@ -45,8 +45,9 @@ python3 process_documents.py
 2. Uploads PDFs to Azure Blob Storage
 3. Analyzes documents with Azure Document Intelligence
 4. Extracts clean English text
-5. Cleans up temporary files
-6. Shows output summary
+5. Creates LLM-ready text chunks
+6. Cleans up temporary files
+7. Shows output summary
 
 ### Individual Scripts
 
@@ -73,11 +74,20 @@ python3 extract_english_text.py
 - Extracts clean English text from analysis results
 - Saves to `./output/english_content.txt`
 
+#### 4. Create LLM Chunks
+```bash
+python3 chunk_for_llm.py
+```
+- Creates text chunks optimized for LLM ingestion
+- Configurable token size (default: 500) and overlap (default: 50)
+- Saves to `./output/llm_chunks.json`
+
 ## Output Files
 
 - `analysis_results.txt` - Human-readable document analysis
 - `analysis_response.json` - Complete Azure API response
 - `english_content.txt` - Clean English text only
+- `llm_chunks.json` - LLM-ready text chunks with configurable size/overlap
 
 ## Project Structure
 
@@ -89,6 +99,7 @@ bhutan_training/
 ├── doc_intellegence.py      # Document analysis script
 ├── upload_to_blob.py        # Blob storage upload script
 ├── extract_english_text.py  # English text extraction
+├── chunk_for_llm.py         # LLM text chunking
 ├── requirements.txt         # Python dependencies
 ├── .env                     # Environment variables (create from env.example)
 └── README.md               # This file

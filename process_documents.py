@@ -132,7 +132,12 @@ def main():
         print("\n❌ PIPELINE FAILED: Text extraction failed")
         sys.exit(1)
     
-    # Step 4: Cleanup
+    # Step 4: Create LLM chunks
+    if not run_script('chunk_for_llm.py', 'Creating LLM-ready text chunks'):
+        print("\n❌ PIPELINE FAILED: Chunking failed")
+        sys.exit(1)
+    
+    # Step 5: Cleanup
     cleanup_temp_files()
     
     # Step 5: Summary
@@ -147,6 +152,7 @@ def main():
     print("  • analysis_results.txt - Human-readable analysis")
     print("  • analysis_response.json - Complete JSON response")
     print("  • english_content.txt - Clean English text")
+    print("  • llm_chunks.json - LLM-ready text chunks")
 
 if __name__ == "__main__":
     main()
